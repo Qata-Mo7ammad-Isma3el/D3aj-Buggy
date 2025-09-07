@@ -4,7 +4,10 @@ This repository contains the design, documentation, and code for **D3aj Buggy**,
 The project was developed as part of the Embedded Systems course and demonstrates integration of sensors, robotic arms, circuit controllers, and object-oriented programming.
 
 ---
+### Robot Design
+![D3aj Buggy Front](D3aj-Buggy.jfif)
 
+---
 ## 📂 Table of Contents
 1. [Introduction](#introduction)
 2. [Sensor System](#sensor-system)
