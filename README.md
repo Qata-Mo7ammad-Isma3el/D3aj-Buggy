@@ -25,42 +25,42 @@ The project was developed as part of the Embedded Systems course and demonstrate
 ## 🔎 Introduction
 Mine detection is an extremely dangerous process, responsible for **over 20,000 deaths per year worldwide**.  
 At the current rate, it would take nearly **1,100 years** to clear all active landmines.  
-D3aj Buggy addresses this by using an **autonomous mobile robot** that can safely detect mines and reduce human risk:contentReference[oaicite:0]{index=0}.
+D3aj Buggy addresses this by using an **autonomous mobile robot** that can safely detect mines and reduce human risk.
 
 ---
 
 ## 📡 Sensor System
 - **A88 Metal Detector Module** used as a prototype (since stronger sensors are restricted in our country).  
 - Works by transmitting an electromagnetic field into the ground.  
-- Any metallic object retransmits the signal, which is captured by the sensor coil:contentReference[oaicite:1]{index=1}.  
+- Any metallic object retransmits the signal, which is captured by the sensor coil.  
 
 ---
 
 ## 🤖 Robotic Arm
 - Arms are crucial in mine detection robots, allowing them to inspect and interact with hazardous areas from a **safe distance**.  
 - Applications: manufacturing, assembly, material handling, packaging.  
-- Protects the main robot body from potential explosion damage:contentReference[oaicite:2]{index=2}.
+- Protects the main robot body from potential explosion damage.
 
 ---
 
 ## ⚡ Circuit & Controller
 - **Wireless controller** operating at 2.4 GHz with a 10m range.  
 - Powered by **2–3 AAA batteries**.  
-- Includes vibration feedback and optical indicators for sending/receiving data:contentReference[oaicite:3]{index=3}.
+- Includes vibration feedback and optical indicators for sending/receiving data.
 
 ---
 
 ## 🛠️ Design
 - Built with **Parallel Link Suspension** (coil spring & double wishbone suspension).  
 - Ensures high flexibility, balance, and adaptability to rough terrains.  
-- Optimized for different environmental conditions:contentReference[oaicite:4]{index=4}.
+- Optimized for different environmental conditions.
 
 ---
 
 ## 💻 Code
 - Implemented in **C++ (Arduino .ino)** with **Object-Oriented Programming (OOP)** principles:
   - **Encapsulation** → Wrapping data and functions into single units.  
-  - Promotes modularity, reusability, and easier maintenance:contentReference[oaicite:5]{index=5}.
+  - Promotes modularity, reusability, and easier maintenance.
 
 ---
 
