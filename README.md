@@ -2,6 +2,9 @@
 
 This repository contains the design, documentation, and code for **D3aj Buggy**, an embedded systems project focused on building a **mobile mine detection robot**.  
 The project was developed as part of the Embedded Systems course and demonstrates integration of sensors, robotic arms, circuit controllers, and object-oriented programming.
+---
+### illustration video
+[![Watch the video](thumbnail.png)](./illustration_video.mp4)
 
 ---
 ### Robot Design
